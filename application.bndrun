@@ -1,0 +1,1 @@
+-runrequires: bnd.identity;id='org.apache.httpcomponents.httpclient'
